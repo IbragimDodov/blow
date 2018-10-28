@@ -1,0 +1,16 @@
+@import url(reset.css);
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font: 40px;
+	color: #000;
+	max-width: 2400px;
+	max-height: 1800px;
+	background: url(../img/main-bg.jpg);
+}
+
+#wrapper {
+	width: 2100px;
+	margin: 0 auto;
+
+}
